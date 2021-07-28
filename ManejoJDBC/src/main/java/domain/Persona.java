@@ -32,6 +32,10 @@ public class Persona {
         this.telefono = telefono;
     }
 
+    public int getIdPersona() {
+        return idPersona;
+    }
+
     public String getNombre() {
         return nombre;
     }
